@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838034167528",
+    "project_id": "caloriestracker-flutter",
+    "storage_bucket": "caloriestracker-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838034167528:android:43a865c636330cdea29b5d",
+        "android_client_info": {
+          "package_name": "com.example.calories_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7g2J1ngFrcBYAN039SSTdZIOBxDNp_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
